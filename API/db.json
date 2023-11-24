@@ -1,0 +1,49 @@
+{
+    "animals":[
+    {
+    "id": 2,
+    "image": "https://hips.hearstapps.com/hmg-prod/images/cute-baby-animals-1558535060.jpg?crop=1.00xw:0.669xh;0,0.158xh&resize=1200:*",
+    "name": "Condiments"
+    },
+    {
+    "id": 1,
+    "image": "https://media.baamboozle.com/uploads/images/176573/1607643988_54317",
+    "name": "Beverages"
+    },
+    {
+    "id": 3,
+    "image": "https://aldf.org/wp-content/uploads/2018/05/lamb-iStock-665494268-16x9-e1559777676675.jpg",
+    "name": "Confections"
+    },
+    {
+    "id": 4,
+    "image": "https://cdn.britannica.com/29/150929-050-547070A1/lion-Kenya-Masai-Mara-National-Reserve.jpg",
+    "name": "Dairy Products"
+    },
+    {
+    "id": 5,
+    "image": "https://animals.sandiegozoo.org/sites/default/files/2016-08/hero_zebra_animals.jpg",
+    "name": "Grains/Cereals"
+    },
+    {
+    "id": 6,
+    "image": "https://www.belizehub.com/wp-content/uploads/2020/05/belize-jaguars.jpg",
+    "name": "Meat/Poultry"
+    },
+    {
+    "id": 7,
+    "image": "https://falstaff.b-cdn.net/storage/2021/05/Flamingo_Beach__Aruba.jpeg",
+    "name": "Produce"
+    },
+    {
+    "id": 8,
+    "image": "https://jurnalspiritual.eu/wp-content/uploads/2014/12/paun.png",
+    "name": "Seafood"
+    },
+    {
+        "id": 9,
+    "image": "https://www.treehugger.com/thmb/kaA2K_9wVzTbPIyCRm3-oZuy6k0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/horse.primary-e9a47e1c486c4fb7bf729e05b59cf0df.jpg",
+    "name": "Seafood"
+    }
+    
+    ]}

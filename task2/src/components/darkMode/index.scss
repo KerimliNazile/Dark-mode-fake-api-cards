@@ -1,0 +1,40 @@
+:root {
+    --main-bg-color: white;
+    --main-text-color: rgb(165, 16, 165);
+    --secondary-bg-color: rgb(216, 171, 236);
+    --secondary-text-color: white;
+
+
+
+}
+
+.dark {
+    --main-bg-color: black;
+    --main-text-color: white;
+    --secondary-bg-color: white;
+    --secondary-text-color: black;
+    --button-bg-color: purple;
+
+}
+
+body {
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+h1 {
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+p {
+    background-color: var(--secondary-bg-color);
+    color: var(--secondary-text-color);
+}
+
+.fa-sun {
+    font-size: 40px;
+}
+.fa-moon{
+    font-size: 40px;
+}

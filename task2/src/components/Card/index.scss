@@ -1,0 +1,19 @@
+*{
+    list-style: none;
+}
+img{
+    width: 80%;
+    object-fit: cover;
+}
+.root{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.card{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+ul{
+    width: 296px;
+    height: 193px;
+}
